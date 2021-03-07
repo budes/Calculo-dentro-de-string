@@ -85,13 +85,13 @@ esse valor é o primeiro valor do cálculo, ele faz isso para que já tenha um v
 Ao seguir, o for divide em turnos pois divisão e multiplicação tem ordem de prescedência diferente da soma e 
 subtração.
 
-#### Turno 0
+### Turno 0
 
 Quando segue mais adiante, caso o turno seja o 0, ele adiciona para a auxiliar o resultado da divisão/multiplicação 
 no lugar dos valores anteriores, pois para que a soma e subtração ocorra adequadamente ele precisa dos números dispostos
 corretamente, para isso ele apaga os elementos anteriores e insere a auxiliar. 
 
-#### Turno 1
+### Turno 1
 
 Quando entrar no turno 1, ele só adiciona ao resultado o valor que for indicado para o resultado, com a operação indicada.
 
