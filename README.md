@@ -8,7 +8,6 @@ Faz um cálculo dentro de uma string sem usar eval
 • Divisão e multiplicação.
 
 # Etapas
-### • Fazer as operações.
 
 ## Formatar o cálculo indicado
 
